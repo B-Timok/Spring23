@@ -1,5 +1,5 @@
 # Spring23
-C++ Programs from my second year of coding
+C++ Programs from my second year of coding.
 
 The Programs in this repository are mainly developed from my studies in Data Structures.
 
